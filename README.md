@@ -1,4 +1,4 @@
-#OFC
+# OFC
 Made in 48H for the Global Game Jam 2025 (Theme: Bubbles).
 
 Note : Only the game's logo was AI-generated.
@@ -30,7 +30,7 @@ Spacebar : Jump
 
 
 
-##Bubble types :
+## Bubble types :
 
 There are four flowers that generate bubbles of different types. Sucking those in changes the type of bubbles your weapon can shoot.
 
@@ -44,7 +44,7 @@ Mercury Bubbles
 If those bubbles pop, they make whatever they hold disappear (however you can still safely put ducks into the enclosure with these)
 
 
-##Credits :
+## Credits :
 
 <ins>Game Designer : </ins>
 
