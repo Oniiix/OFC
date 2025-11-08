@@ -17,7 +17,7 @@ All ducks safely put inside the enclosure before the end of each wave each give 
 
 Now go help those defensless ducks!
 
-##Controls (AZERTY Keyboard Layout) :
+## Controls (AZERTY Keyboard Layout) :
 
 
 ZQSD  : Move
